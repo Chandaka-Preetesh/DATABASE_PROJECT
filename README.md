@@ -9,15 +9,14 @@ This project is built using **Oracle SQL** and includes well-normalized schemas,
 ## 📌 Key Features
 
 - Fully normalized relational schema
-- Realistic test data across all tables
-- 30+ SQL queries replicating Play Store features:
+- 10 SQL queries replicating Play Store features:
   - Trending apps
   - Average app ratings
   - Top downloaded categories
   - User wishlists and activity
   - Permission analysis
   - Latest version tracking
-- Use of joins, aggregations, date filtering, subqueries, and sorting
+- Use of joins, aggregations, subqueries, and sorting
 - Strict enforcement of integrity through foreign keys and constraints
 
 ---
